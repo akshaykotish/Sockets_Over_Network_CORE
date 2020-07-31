@@ -1,0 +1,14 @@
+C:\Users\Akshay Kotish\source\repos\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe.config
+C:\Users\Akshay Kotish\source\repos\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe
+C:\Users\Akshay Kotish\source\repos\TCP_Server\TCP_Server\bin\Debug\TCP_Server.pdb
+C:\Users\Akshay Kotish\source\repos\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csprojAssemblyReference.cache
+C:\Users\Akshay Kotish\source\repos\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csproj.CoreCompileInputs.cache
+C:\Users\Akshay Kotish\source\repos\TCP_Server\TCP_Server\obj\Debug\TCP_Server.exe
+C:\Users\Akshay Kotish\source\repos\TCP_Server\TCP_Server\obj\Debug\TCP_Server.pdb
+G:\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe.config
+G:\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe
+G:\TCP_Server\TCP_Server\bin\Debug\TCP_Server.pdb
+G:\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csproj.CoreCompileInputs.cache
+G:\TCP_Server\TCP_Server\obj\Debug\TCP_Server.exe
+G:\TCP_Server\TCP_Server\obj\Debug\TCP_Server.pdb
+G:\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csprojAssemblyReference.cache

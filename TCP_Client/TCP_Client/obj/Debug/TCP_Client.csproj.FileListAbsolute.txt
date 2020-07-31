@@ -1,0 +1,7 @@
+C:\Users\Akshay Kotish\source\repos\TCP_Client\TCP_Client\bin\Debug\TCP_Client.exe.config
+C:\Users\Akshay Kotish\source\repos\TCP_Client\TCP_Client\bin\Debug\TCP_Client.exe
+C:\Users\Akshay Kotish\source\repos\TCP_Client\TCP_Client\bin\Debug\TCP_Client.pdb
+C:\Users\Akshay Kotish\source\repos\TCP_Client\TCP_Client\obj\Debug\TCP_Client.csprojAssemblyReference.cache
+C:\Users\Akshay Kotish\source\repos\TCP_Client\TCP_Client\obj\Debug\TCP_Client.csproj.CoreCompileInputs.cache
+C:\Users\Akshay Kotish\source\repos\TCP_Client\TCP_Client\obj\Debug\TCP_Client.exe
+C:\Users\Akshay Kotish\source\repos\TCP_Client\TCP_Client\obj\Debug\TCP_Client.pdb

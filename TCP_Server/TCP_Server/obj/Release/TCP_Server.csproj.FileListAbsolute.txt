@@ -1,0 +1,7 @@
+G:\TCP_Server\TCP_Server\bin\Release\TCP_Server.exe.config
+G:\TCP_Server\TCP_Server\bin\Release\TCP_Server.exe
+G:\TCP_Server\TCP_Server\bin\Release\TCP_Server.pdb
+G:\TCP_Server\TCP_Server\obj\Release\TCP_Server.csprojAssemblyReference.cache
+G:\TCP_Server\TCP_Server\obj\Release\TCP_Server.csproj.CoreCompileInputs.cache
+G:\TCP_Server\TCP_Server\obj\Release\TCP_Server.exe
+G:\TCP_Server\TCP_Server\obj\Release\TCP_Server.pdb
